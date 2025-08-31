@@ -58,19 +58,16 @@ It enables students to **lend, borrow, and barter** items such as textbooks, ele
 
 ## 📸 Screenshots  
 
-> _(Add screenshots of your running application here for best impact)_
+
 
 | Login Page | User Dashboard |
 |------------|----------------|
-| ![Login Screenshot](<img width="1919" height="903" alt="Screenshot 2025-08-23 161115" src="https://github.com/user-attachments/assets/70517cf7-b674-469e-8c09-99ba1884d359" />
-) | ![Dashboard Screenshot](<img width="1851" height="819" alt="Screenshot 2025-08-23 161817" src="https://github.com/user-attachments/assets/9e8311cc-0ebe-40d0-8a77-e9347c33c0c9" />
-) |
+| ![Login Screenshot](https://github.com/user-attachments/assets/70517cf7-b674-469e-8c09-99ba1884d359) | ![Dashboard Screenshot](https://github.com/user-attachments/assets/9e8311cc-0ebe-40d0-8a77-e9347c33c0c9) |
 
 | My Requests | Real-Time Chat |
 |-------------|----------------|
-| ![Requests Screenshot](<img width="1829" height="822" alt="Screenshot 2025-08-23 161802" src="https://github.com/user-attachments/assets/387126d3-30aa-44da-ac98-1006307852fe" />
-) | ![Chat Screenshot](<img width="1506" height="819" alt="Screenshot 2025-08-23 161749" src="https://github.com/user-attachments/assets/5317c485-c223-4151-8c49-5b862a52da26" />
-) |
+| ![Requests Screenshot](https://github.com/user-attachments/assets/387126d3-30aa-44da-ac98-1006307852fe) | ![Chat Screenshot](https://github.com/user-attachments/assets/5317c485-c223-4151-8c49-5b862a52da26) |
+
 
 ---
 
